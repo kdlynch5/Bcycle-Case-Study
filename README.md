@@ -10,6 +10,6 @@ As a student at the University of Texas at Austin, I've seen countless students 
 TBA
 
 # What cities should Bcycle expand to? 
-## This list only includes cities/areas without a already existing Bike-share program.
+(This list only includes cities/areas without a already existing Bike-share program.)
 * TBA
 
