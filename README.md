@@ -10,6 +10,8 @@ As a student at the University of Texas at Austin, I've seen countless students 
 TBA
 
 # What cities should Bcycle expand to? 
-(This list only includes cities/areas without a already existing Bike-share program.)
+Current Bcycle Cities = Austin, TX, Aventura, FL, Bentonville, AR, Bismarck, ND, Boulder, CO, Charlotte, NC, Cincinnati, OH, Clarksville, TN, Des Moines, IA, El Paso, TX, Encinitas, CA, Fort Lauderdale, FL, Fort Worth, TX, Greenville, SC, Houston, TX, Indianapolis, IN, Jackson, MI, Las Vegas, NV, Lincoln, NE, Los Angeles, CA, Madison, WI, Memphis, TN, Milwaukee, WI, Nashville, TN, Omaha/Council Bluffs, NE, Philadelphia, PA, Redding, CA, Salt Lake City, UT, San Antonio, TX, Santa Barbara, CA, Santa Cruz, CA, Truckee, CA, Valentine, NE, Weslaco, TX
+
+Proposed expansion cities:
 * TBA
 
